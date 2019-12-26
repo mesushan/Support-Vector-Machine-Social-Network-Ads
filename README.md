@@ -33,4 +33,4 @@ The data visualization of the training set and test set is given below. As in th
 
 
 ## Conclusion
-Fromt the two models, it is clear that for this dataset, the non-linear kernel (default) is better than the linear kernel svm as it predicts more accurately and the graph shows that too.
+From the two models, it is clear that for this dataset, the non-linear kernel (default) is better than the linear kernel svm as it predicts more accurately and the graph illustrates it clearly.
