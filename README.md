@@ -7,7 +7,7 @@ Suppose a company is going to launch a new campaign for their new brand of car a
 
 ## Dataset
 
-The dataset contains 400 entries which contains the userId, gender, age, estimatedsalary and the purchased history. The matric of features taken into account are age and estimated salary which are going to predict if the user is going to buy new car or not(1=Yes, 0=No).
+The dataset contains 400 entries which contains the userId, gender, age, estimatedsalary and the purchased history. The matrix of features taken into account are age and estimated salary which are going to predict if the user is going to buy new car or not(1=Yes, 0=No).
 
 ## Solution
 
